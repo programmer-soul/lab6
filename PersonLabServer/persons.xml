@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+<Person><id>1</id><name>Misha Fedorov</name><Coordinates><x>11.0</x><y>15</y></Coordinates><creationDate>2024-02-16T09:45:23.138849700+03:00[Europe/Moscow]</creationDate><height>180</height><weight>85</weight><passportID>3576 246365</passportID><eyeColor>BLUE</eyeColor><Location><x>100.0</x><y>134.0</y><z>100.0</z></Location></Person>
+<Person><id>2</id><name>Alexey Ivanov</name><Coordinates><x>12.0</x><y>18</y></Coordinates><creationDate>2024-02-16T09:45:23.156866300+03:00[Europe/Moscow]</creationDate><height>178</height><weight>76</weight><passportID>3242 353646</passportID><eyeColor>BLACK</eyeColor><Location><x>220.0</x><y>34.0</y><z>220.0</z></Location></Person>
+<Person><id>10</id><name>Sergey Mironov</name><Coordinates><x>14.0</x><y>12</y></Coordinates><creationDate>2024-02-16T09:45:23.156866300+03:00[Europe/Moscow]</creationDate><height>184</height><weight>66</weight><passportID>6342 376600</passportID><eyeColor>BLUE</eyeColor><Location><x>20.0</x><y>4.0</y><z>20.0</z></Location></Person>
+<Person><id>7</id><name>Nikolai Morozov</name><Coordinates><x>4.0</x><y>28</y></Coordinates><creationDate>2024-02-16T09:45:23.157867100+03:00[Europe/Moscow]</creationDate><height>169</height><weight>55</weight><passportID>4532 536501</passportID><eyeColor>BLUE</eyeColor><Location><x>2.0</x><y>41.0</y><z>2.0</z></Location></Person>
+</Persons>

@@ -1,0 +1,33 @@
+
+i
+java:S1192©"MDefine a constant instead of duplicating this literal "testusername" 3 times.(Õğ–Îüÿÿÿÿ
+
+java:S1192®"Define a constant instead of duplicating this literal "ĞĞµĞ²Ğ¾Ğ·Ğ¼Ğ¾Ğ¶Ğ½Ğ¾ Ğ¿Ğ¾Ğ´ĞºĞ»ÑÑ‡Ğ¸Ñ‚ÑŒÑÑ Ğº ÑĞµÑ€Ğ²ĞµÑ€Ñƒ!" 3 times.(Ş¢Ÿıÿÿÿÿ
+~
+java:S1192ï"gDefine a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ° Ğ¿Ğ¾Ğ»Ñ Ğ»Ğ¾ĞºĞ°Ñ†Ğ¸Ñ X" 3 times.(•°ğ¡
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‘‹ÿ
+l	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ôÙ§øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(â½âü
+h	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åõÑ°ÿÿÿÿÿ
+Q	java:S125E"<This block of commented-out lines of code should be removed.(é„¢¬
+V	java:S125R"<This block of commented-out lines of code should be removed.(×ÿ„éûÿÿÿÿ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(³ôêĞ
+U
+java:S3252">Use static access with "java.time.ZoneId" for "systemDefault".(¼ËÇ’
+K
+java:S1905©"/Remove this unnecessary cast to "ResponseList".(Õğ–Îüÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(ò•Ş¶üÿÿÿÿ
+K
+java:S1905´"/Remove this unnecessary cast to "ResponseList".(Õğ–Îüÿÿÿÿ
+Q
+java:S1905·"5Remove this unnecessary cast to "ResponsePersonList".(ñœëïıÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(ò•Ş¶üÿÿÿÿ
+K
+java:S1905Ã"/Remove this unnecessary cast to "ResponseList".(Î¯èÁøÿÿÿÿ
+Q
+java:S1905Æ"5Remove this unnecessary cast to "ResponsePersonList".(ñœëïıÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(ò•Ş¶üÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¶°¡úÿÿÿÿ
+D
+java:S1068".Remove this unused "historystr" private field.(Ó¹§

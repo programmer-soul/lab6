@@ -1,0 +1,21 @@
+
+n
+java:S1192)"XDefine a constant instead of duplicating this literal " ÑĞ»ĞµĞ¼ĞµĞ½Ñ‚Ğ°(Ğ¾Ğ²)" 3 times.(Ó„ê¿
+r
+java:S3655r"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¦æÖ§úÿÿÿÿ8«Éçïé1
+s
+java:S4144Š"WUpdate this method so that its implementation is not identical to "insert" on line 121.(Ó‚ï‰ûÿÿÿÿ
+W	java:S107›"<Method has 9 parameters, which is greater than 7 authorized.(À²®†ùÿÿÿÿ
+Y
+java:S3252">Use static access with "java.time.ZoneId" for "systemDefault".(èú¢åÿÿÿÿÿ
+Y
+java:S3252@">Use static access with "java.time.ZoneId" for "systemDefault".(ùåÓìúÿÿÿÿ
+c	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ëù
+h	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ãºşÿÿÿÿ
+i	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À²®†ùÿÿÿÿ
+Z
+java:S3252»">Use static access with "java.time.ZoneId" for "systemDefault".(Š¼Õâüÿÿÿÿ
+d	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ²ã¸
+i	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¡Ñ‘üÿÿÿÿ
+X
+java:S1126ï"AReplace this if-then-else statement by a single return statement.(ûÂáŞ

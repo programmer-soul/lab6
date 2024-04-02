@@ -1,0 +1,15 @@
+
+r
+java:S3655f"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¦æÖ§úÿÿÿÿ8ÌõÒïé1
+V	java:S107s"<Method has 9 parameters, which is greater than 7 authorized.(õœúÿÿÿÿ
+Y
+java:S3252">Use static access with "java.time.ZoneId" for "systemDefault".(èú¢åÿÿÿÿÿ
+Y
+java:S32525">Use static access with "java.time.ZoneId" for "systemDefault".(ùåÓìúÿÿÿÿ
+h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ÿ®‹úÿÿÿÿ
+h	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñõşşÿÿÿÿ
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õœúÿÿÿÿ
+Z
+java:S3252Œ">Use static access with "java.time.ZoneId" for "systemDefault".(Š¼Õâüÿÿÿÿ
+d	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Î•
+i	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‚Äãıÿÿÿÿ
