@@ -87,3 +87,14 @@ S
 #PersonLabServer/src/main/Color.java,9/9/997d612ce7ef19fcfa882136c224a4daffe28ad5
 U
 %PersonLabServer/src/command/Save.java,a/a/aa4a79ce7549117868c13bc4bbc6e769f97072ce
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#PersonLabServer/PersonLabServer.iml,3/1/31d2cee0db70cbe886c9acd3a4e165f2364e15d1
+S
+#PersonLabClient/PersonLabClient.iml,8/7/87d5bcaa59502be26e08292e7836a200435b23c9
