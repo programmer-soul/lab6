@@ -1,21 +1,0 @@
-
-i
-java:S1104
-"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
-f
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
-m
-java:S1104"WMake coordinates a static final constant or non-public and provide accessors if needed.(¯šùÐ
-s
-java:S1104"XMake creationDate a static final constant or non-public and provide accessors if needed.(—æ¢Èýÿÿÿÿ
-m
-java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(á°À€ûÿÿÿÿ
-m
-java:S1104"RMake weight a static final constant or non-public and provide accessors if needed.(úü¤Îùÿÿÿÿ
-l
-java:S1104"VMake passportID a static final constant or non-public and provide accessors if needed.(š„¥¯
-j
-java:S1104"TMake eyeColor a static final constant or non-public and provide accessors if needed.(ÝÇ´ý
-j
-java:S1104"TMake location a static final constant or non-public and provide accessors if needed.(Éä‹©
-[	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(¼çêëúÿÿÿÿ

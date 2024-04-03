@@ -1,36 +1,0 @@
-
-n	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(›ûÅò
-R
-java:S2629/"7Use the built-in formatting to construct this argument.(éÏÉùúÿÿÿÿ
-M
-java:S2629?"7Use the built-in formatting to construct this argument.(òáÇÇ
-R
-java:S2629F"7Use the built-in formatting to construct this argument.(Ô¥¨¥ûÿÿÿÿ
-M
-java:S2629d"7Use the built-in formatting to construct this argument.(¬Ò¿ã
-M
-java:S2629m"7Use the built-in formatting to construct this argument.(¬Ò¿ã
-R
-java:S2629t"7Use the built-in formatting to construct this argument.(Á¹õ­üÿÿÿÿ
-s
-java:S2629‰"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Şì•È
-N
-java:S2629Š"7Use the built-in formatting to construct this argument.( î€˜
-N
-java:S2629 "7Use the built-in formatting to construct this argument.(õ·É»
-N
-java:S2629§"7Use the built-in formatting to construct this argument.(±Ğğ
-N
-java:S2629«"7Use the built-in formatting to construct this argument.(£€©
-v	java:S116"URename this field "PacketSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¡ÓŒúÿÿÿÿ8çšáïé1
-t	java:S116"SRename this field "DataSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İßùŠøÿÿÿÿ8ğ×âïé1
-<
-java:S1170"!Make this final field static too.(æ¡ÓŒúÿÿÿÿ
-<
-java:S1170"!Make this final field static too.(İßùŠøÿÿÿÿ
-h
-java:S3776."RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“–ış
-T
-java:S1117€"8Rename "addr" which hides the field declared at line 23.(¼æØîøÿÿÿÿ
-Y
-java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ø‚ãïé1
